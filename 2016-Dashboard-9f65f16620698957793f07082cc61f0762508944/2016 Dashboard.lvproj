@@ -291,7 +291,7 @@
 				<Property Name="Bld_localDestDir" Type="Path">/C/Users/Public/Documents/FRC/builds</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{38E94F8D-E5A1-4A9D-A666-29E68A3D7811}</Property>
-				<Property Name="Bld_version.build" Type="Int">122</Property>
+				<Property Name="Bld_version.build" Type="Int">127</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">CameraDashboard.exe</Property>
 				<Property Name="Destination[0].path" Type="Path">/C/Users/Public/Documents/FRC/builds/CameraDashboard.exe</Property>
@@ -302,7 +302,7 @@
 				<Property Name="Destination[1].path" Type="Path">/C/Users/Public/Documents/FRC/builds/data</Property>
 				<Property Name="Destination[1].path.type" Type="Str">&lt;none&gt;</Property>
 				<Property Name="DestinationCount" Type="Int">2</Property>
-				<Property Name="Source[0].itemID" Type="Str">{CB31E300-1B71-46B8-A3FE-2992139DF8F9}</Property>
+				<Property Name="Source[0].itemID" Type="Str">{0F84F657-C2E2-4C6A-994C-675E1E0A8679}</Property>
 				<Property Name="Source[0].type" Type="Str">Container</Property>
 				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
 				<Property Name="Source[1].itemID" Type="Ref">/My Computer/Dashboard Main.vi</Property>
